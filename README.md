@@ -10,4 +10,4 @@ a vanilla network <--> a traditional nn with single input and output.
 
 
 #### transferable adversarial examples
-a surrogate model <--> a model used to generate transferable adversarial examples
+a surrogate model <--> a model whose adversarial examples are used as transferable adversarial examples.
