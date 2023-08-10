@@ -6,6 +6,7 @@ I sometimes find it difficult to make papers that read like they were written by
 
 ## Vocabulary
 a vanilla network <--> a traditional nn with single input and output.
+covariate shift <--> the function of instance normalization
 ### adversarial attacks
 
 
